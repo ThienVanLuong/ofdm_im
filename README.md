@@ -1,7 +1,7 @@
 # ofdm_im
 OFDM with Index Modulation (OFDM-IM) with various detection types (ML, Greedy, LLR) and imperfect CSI channels.
 
-- Performance metics: SEP symbol error probability [1], BER in [2]
+- Performance metrics: SEP/SER symbol error probability/rate [1], BER in [2]
 - Matlab version 2015b, also working well on 2019a.
 - Note that MCIK-OFDM is another name of OFDM-IM see [1], [2].
 
