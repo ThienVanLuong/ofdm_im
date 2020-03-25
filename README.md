@@ -5,6 +5,7 @@ OFDM with Index Modulation (OFDM-IM) with various detection types and imperfect 
 - Note that MCIK-OFDM is another name of OFDM-IM see [1], [2].
 
 References
+
 [1] T. V. Luong and Y. Ko, “A tight bound on BER of MCIK-OFDM with
 greedy detection and imperfect CSI,” IEEE Commun. Lett., vol. 21,
 no. 12, pp. 2594 – 2597, Dec. 2017.
